@@ -5,11 +5,11 @@
 #### Git
 
 - [X] Ajouter ce repo en upstream dans les remotes sur son local après l'avoir forké et cloné
-- [ ] Découvrir les conventions de nommage de son versionning avec la convention Angular :
+- [X] Découvrir les conventions de nommage de son versionning avec la convention Angular :
   - [X] https://github.com/angular/angular/blob/main/CONTRIBUTING.md#-commit-message-format
   - [X] https://www.conventionalcommits.org/fr/v1.0.0/
   - [X] Renommer son dernier commit en respectant cette convention
-- [X] Créer un cheat sheet sur Git
+- [ ] Créer un cheat sheet sur Git
 
 #### Markdown
 
