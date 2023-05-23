@@ -9,16 +9,16 @@
   - [X] https://github.com/angular/angular/blob/main/CONTRIBUTING.md#-commit-message-format
   - [X] https://www.conventionalcommits.org/fr/v1.0.0/
   - [X] Renommer son dernier commit en respectant cette convention
-- [ ] Créer un cheat sheet sur Git
+- [X] Créer un cheat sheet sur Git
 
 #### Markdown
 
 - [ ] Préparer un README.md générique qui caresse la rétine (à réutiliser pour tous vos prochains repos)
-  - [ ] Voici un Awesome README : https://github.com/matiassingers/awesome-readme
+  - [X] Voici un Awesome README : https://github.com/matiassingers/awesome-readme
 
 #### Gitflow
 
-- [ ] Découvrir Gitflow
+- [X] Découvrir Gitflow
   - [ ] Créer un cheat sheet sur Gitflow
 
 #### IA
